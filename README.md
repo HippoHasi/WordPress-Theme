@@ -2,7 +2,6 @@
 A WordPress Theme with a full screen background image for homepage and with drop-down menus on desktop screen
 
 === Huhtog ===
-Contributor: uktao
 Tags: one-column, two-columns, right-sidebar, flexible-header, custom-colors, custom-header, custom-menu, custom-logo, editor-
 style, footer-widgets, post-formats, sticky-post, featured-images, theme-options, threaded-comments, translation-ready
 Requires at least: version 4.7
